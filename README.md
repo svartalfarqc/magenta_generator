@@ -11,3 +11,5 @@ Configure default values in config.ini, execute code to launch the interface.
 
 Pre-requesite: having downloaded magenta checkpoints (and placed in default ./checkpoints folder or other folder specified in config.ini)
 https://github.com/magenta/magenta-js/blob/master/music/checkpoints/README.md
+
+![Screenshot](./screenshot.png)
